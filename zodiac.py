@@ -17,3 +17,5 @@ a_list.append('X')
 print(a_list)
 a_list.remove('X')
 print(a_list)
+
+# 11-->2.11
